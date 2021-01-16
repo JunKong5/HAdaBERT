@@ -3,9 +3,9 @@ This is code for Hierarchical BERT with an Adaptive Fine-Tuning Strategy for Doc
 
 # Requirements
 transformers == 3.1.0  
-torch == 1.2.0 
-python == 3.6.9
-easydict == 1.9 
+torch == 1.2.0  
+python == 3.6.9  
+easydict == 1.9  
 
 # usage
 - Datasets  
