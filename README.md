@@ -2,9 +2,10 @@
 This is code for Hierarchical BERT with an Adaptive Fine-Tuning Strategy for Document Classification
 
 # Requirements
-transformers  
-torch  
-easydict  
+transformers == 3.1.0  
+torch == 1.2.0 
+python == 3.6.9
+easydict == 1.9 
 
 # usage
 - Datasets  
